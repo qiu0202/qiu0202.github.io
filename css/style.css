@@ -1,0 +1,221 @@
+.w {
+	width: 1200px;
+	margin: auto;
+}
+.nve {
+	position: relative;
+	height: 60px;
+	line-height: 60px;
+	/*background-color: red;*/
+}
+.nve_logo img {
+	position: absolute;
+	float: left;
+	left: 160px;
+	top: 13px;
+}
+.nve_l {
+	position: absolute;
+	left: 300px;
+	/*width: 600px;*/
+
+}
+.nve_l li {
+	float: left;
+	margin-right: 15px;
+
+}
+.nve_l li a {
+	display: inline-block;
+	width: 60px;
+	height: 60px;
+	font-size: 14px;
+	text-align: center;
+}
+.yinyue {
+	background-color: #31C27D;
+}
+.nve_r {
+	position: absolute;
+	top: 0;
+	left: 760px;
+}
+.nve_r input {
+	color: gray;
+	width: 160px;
+	height: 30px;
+	text-indent: 1em;
+	font-size: 12px;
+	margin: 0 5px;
+
+}
+.sou {
+	background: url(../img/search.png) no-repeat;
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	border: none;
+	top: 20px;
+	left: 145px;
+
+}
+.deng {
+	width: 40px;
+	height: 30px;
+}
+.kaitong {
+	display: inline-block;
+	width: 100px;
+	height: 30px;
+	line-height: 30px;
+	color: white;
+	background-color: green;
+	margin-left: 5px;
+	text-align: center;
+}
+.fufei {
+	display: inline-block;
+	width: 89px;
+	height: 29px;
+	line-height: 30px;
+	text-align: center;
+	border: 1px solid gray;
+	margin-right: 10px;
+}
+
+.box {
+	
+	margin-top: 20px;
+	background:url(../img/10.jpg);
+}
+.biaoti {
+	margin: auto;
+}
+.biaoti h2 {
+	width: 200px;
+	margin: auto;
+	color: white;
+	font-weight: 400;
+	padding-top: 30px;
+	font-size: 33px;
+}
+
+.box_n {
+	width: 600px;
+	margin-left: 360px;
+}
+.box_n a {
+	display:inline-block;
+	width: 60px;
+	height: 30px;
+	margin: 10px 20px;
+	/*background-color: skyblue;*/
+
+}
+.wh {
+	color: white;
+}
+.quanbu {
+	position: absolute;
+	right: 55px;
+	color: white;
+}
+/*.box_p {
+	width: 1200px;
+	height: 300px;
+	margin: auto;
+}*/
+.box_p {
+	/*width: 1200px;*/
+	height: 400px;	
+	/*margin-left: 300px;*/
+}
+.box_q {
+	width: 720px;
+	margin: auto;
+}
+
+
+.box_p li {
+	float: left;
+}
+
+.box_p li a { 
+	display: inline-block;
+	width: 180px;
+	height: 250px;
+/*	border:2px solid red;*/
+}
+.box_p a img {
+	width: 100%;
+	height: 180px;
+}
+.shiguang {
+	width: 180px;
+	height: 70px;
+	text-align: center;
+	background-color: black;
+
+}
+.box_p a p {
+	width: 180px;
+	padding-top: 10px;
+	background-color: black;
+	font-size: 12px;
+
+}
+/*歌单*/
+.box_s {
+	background-color: #fff;
+}
+.biaoti .remen {
+	color: black;
+}
+.shiguang {
+	white-space: nowrap;
+	
+}
+.box_q li p {
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.weibu {
+	background-color: #333;
+	height: 300px;
+}
+.pc {
+	background: url(../img/footer.png);
+	width: 30px;
+	height: 30px;
+	background-position: -2px -4px;
+}
+.mac {
+	background: url(../img/footer.png);
+	width: 30px;
+	height: 30px;
+	background-position: -70px -6px;
+}
+.android {
+	width: 30px;
+	height: 34px;
+	background: url(../img/footer.png);
+	background-position: -141px -3px;
+}
+.iphone {
+	width: 30px;
+	height: 35px;
+	background: url(../img/footer.png);
+	background-position: -208px -2px;
+}
+.wei_l {
+	float: left;
+	margin: 80px 0 0 180px;
+}
+.wei_l dd {
+	display: inline-block;
+	padding-top: 20px;
+	padding-right: 20px;
+	width: 80px;	
+	height: 80px;
+
+}
